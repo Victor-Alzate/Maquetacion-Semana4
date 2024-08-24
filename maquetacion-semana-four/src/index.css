@@ -1,4 +1,51 @@
 .head{
     background-color: blue;
-    width: 88px;
+    width: 100vw;
+    height: 146px;
+    margin-top: -22px;
+    margin-left: -10px;
+}
+.footer{
+    background-color: red;
+    width: 87vw;
+    height: 70px;
+    position: absolute;
+    top: 586px;
+    left: 209px;
+}
+
+.main{
+    display: flex;
+    flex-direction: row;
+}
+
+.move{
+    display: flex;
+    flex-direction: column;
+}
+
+.sect{
+    display: flex;
+    flex-direction: column;
+}
+
+.aside{
+    background-color: yellow;
+    width: 200px;
+    height: 510px;
+    position: relative;
+    top: -19px;
+}
+
+.mainnn{
+    background-color: red;
+    width: 1335px;
+    height: 150px;
+}
+
+.galeria{
+    background-color: red;
+    width: 1335px;
+    height: 150px;
+    margin-top: 70px;
 }
