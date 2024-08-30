@@ -8,9 +8,7 @@ import Footer from './Components/Footer'
 createRoot(document.getElementById('root')).render(
   <StrictMode>
     <Header />
-   
-        <Content />
-        <Footer />
-
+    <Content />
+    <Footer />
   </StrictMode>,
 )
